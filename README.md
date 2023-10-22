@@ -5,3 +5,12 @@ Repository structure:
 
 nbs folder:
 - Assignment_3.ipynb (portfolio assignment 3)
+
+
+
+Created by:
+Sarah Hvid Andersen (SHA),
+Andreas Hjorth Jeppesen (AHJ), 
+Rūta Slivkaitė (RS), 
+Bianka Szöllősi (BS), 
+Aleksander Moeslund Wael (AMW)
