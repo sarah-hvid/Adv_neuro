@@ -1,10 +1,16 @@
 # Advanced cognitive neuroscience
-This repository contains the code produced in relation to the portfolio exam of Advanced Cognitive Neuroscience.
+This repository contains the code produced in relation to the portfolio exams of Advanced Cognitive Neuroscience.
 
 Repository structure:
 
-nbs folder:
-- Assignment_3.ipynb (portfolio assignment 3)
+Assignement_3 folder:
+- Assignment_3.ipynb
+
+Assignement_4 folder:
+- fmri_analysis.ipynb
+  - The notebook contains the initial preprocessing code leading to the searchlight analysis.
+- searchlight_neg_pos.py
+- searchlight_self_other.py
 
 
 
